@@ -22,11 +22,7 @@ import java.util.List;
 import java.util.Set;
 import java.util.stream.Collectors;
 
-/**
- * @author Qiangqiang.Bian
- * @create 2020/11/1
- * @desc
- **/
+
 public class FaqTransfer {
 
     public static FaqInfoResponse toFaqInfoResponse(Faq faq) {

@@ -10,11 +10,7 @@ import pub.developers.forum.domain.repository.TagRepository;
 import javax.annotation.Resource;
 import java.util.Set;
 
-/**
- * @author Qiangqiang.Bian
- * @create 2020/11/24
- * @desc
- **/
+
 @Component
 public class FaqUpdateListener extends EventBus.EventHandler<Pair<Faq>> {
 

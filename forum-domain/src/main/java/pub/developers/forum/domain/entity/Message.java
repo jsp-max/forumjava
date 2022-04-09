@@ -10,11 +10,7 @@ import pub.developers.forum.common.enums.MessageReadEn;
 import pub.developers.forum.common.enums.MessageTypeEn;
 import pub.developers.forum.domain.entity.value.IdValue;
 
-/**
- * @author Qiangqiang.Bian
- * @create 2020/7/30
- * @desc 消息
- **/
+
 @Data
 @Builder
 @AllArgsConstructor

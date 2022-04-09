@@ -3,11 +3,7 @@ package pub.developers.forum.common.support;
 import org.slf4j.Logger;
 import org.slf4j.helpers.MessageFormatter;
 
-/**
- * @author Qiangqiang.Bian
- * @create 2020/10/30
- * @desc
- **/
+
 public class LogUtil {
 
     public static void info(Logger logger, String format, Object... args) {

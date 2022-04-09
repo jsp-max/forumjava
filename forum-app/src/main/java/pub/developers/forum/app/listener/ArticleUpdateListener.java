@@ -11,11 +11,7 @@ import pub.developers.forum.domain.repository.TagRepository;
 import javax.annotation.Resource;
 import java.util.Set;
 
-/**
- * @author Qiangqiang.Bian
- * @create 2020/11/5
- * @desc
- **/
+
 @Component
 public class ArticleUpdateListener extends EventBus.EventHandler<Pair<Article>> {
 

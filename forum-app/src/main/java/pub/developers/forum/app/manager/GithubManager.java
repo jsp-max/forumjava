@@ -16,11 +16,7 @@ import pub.developers.forum.domain.service.GithubService;
 import javax.annotation.Resource;
 import java.util.Date;
 
-/**
- * @author Qiangqiang.Bian
- * @create 2021/5/15
- * @desc
- **/
+
 @Component
 public class GithubManager extends AbstractLoginManager {
 

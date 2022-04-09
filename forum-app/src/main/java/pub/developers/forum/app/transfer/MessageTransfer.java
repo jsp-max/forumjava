@@ -10,11 +10,7 @@ import pub.developers.forum.domain.entity.User;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @author Qiangqiang.Bian
- * @create 2020/12/5
- * @desc
- **/
+
 public class MessageTransfer {
 
     public static List<MessagePageResponse> toMessagePageResponses(List<Message> messages, List<User> users, List<BasePosts> postsList, User loginUser) {

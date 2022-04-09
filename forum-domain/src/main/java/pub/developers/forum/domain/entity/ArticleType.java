@@ -7,11 +7,7 @@ import lombok.NoArgsConstructor;
 import pub.developers.forum.common.enums.ArticleTypeScopeEn;
 import pub.developers.forum.common.enums.AuditStateEn;
 
-/**
- * @author Qiangqiang.Bian
- * @create 2020/10/31
- * @desc
- **/
+
 @Data
 @Builder
 @AllArgsConstructor

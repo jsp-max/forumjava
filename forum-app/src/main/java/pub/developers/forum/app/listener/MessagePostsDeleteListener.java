@@ -9,11 +9,7 @@ import pub.developers.forum.domain.repository.MessageRepository;
 import javax.annotation.Resource;
 import java.util.Arrays;
 
-/**
- * @author Qiangqiang.Bian
- * @create 2020/12/5
- * @desc
- **/
+
 @Component
 public class MessagePostsDeleteListener extends EventBus.EventHandler<BasePosts> {
 

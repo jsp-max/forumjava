@@ -7,11 +7,7 @@ import lombok.NoArgsConstructor;
 
 import java.util.List;
 
-/**
- * @author Qiangqiang.Bian
- * @create 2020/8/3
- * @desc
- **/
+
 @Data
 @Builder
 @AllArgsConstructor

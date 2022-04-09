@@ -11,11 +11,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Map;
 
-/**
- * @author Qiangqiang.Bian
- * @create 2020/12/3
- * @desc
- **/
+
 @Component
 public class FoodCommentCreateListener extends EventBus.EventHandler<Map<String, Object>> {
 

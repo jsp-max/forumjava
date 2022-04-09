@@ -8,11 +8,7 @@ import lombok.NoArgsConstructor;
 import java.io.Serializable;
 import java.util.Date;
 
-/**
- * @author Qiangqiang.Bian
- * @create 20/9/9
- * @desc
- **/
+
 @Data
 @Builder
 @AllArgsConstructor

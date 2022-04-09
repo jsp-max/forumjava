@@ -8,11 +8,7 @@ import pub.developers.forum.domain.repository.OptLogRepository;
 
 import javax.annotation.Resource;
 
-/**
- * @author Qiangqiang.Bian
- * @create 2020/10/22
- * @desc
- **/
+
 @Component
 public class OptLogUserRegisterListener extends EventBus.EventHandler<User> {
 

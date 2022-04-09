@@ -8,11 +8,7 @@ import org.apache.commons.codec.digest.DigestUtils;
 import java.nio.charset.Charset;
 import java.util.UUID;
 
-/**
- * @author Qiangqiang.Bian
- * @create 20/7/23
- * @desc
- **/
+
 public class StringUtil {
     private StringUtil() {
     }

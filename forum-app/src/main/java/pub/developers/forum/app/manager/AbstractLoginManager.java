@@ -13,11 +13,7 @@ import pub.developers.forum.domain.service.CacheService;
 
 import javax.annotation.Resource;
 
-/**
- * @author Qiangqiang.Bian
- * @create 2021/5/15
- * @desc
- **/
+
 public class AbstractLoginManager {
 
     @Resource

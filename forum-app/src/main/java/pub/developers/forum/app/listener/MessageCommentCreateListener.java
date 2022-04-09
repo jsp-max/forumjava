@@ -15,11 +15,7 @@ import pub.developers.forum.domain.repository.PostsRepository;
 import javax.annotation.Resource;
 import java.util.Map;
 
-/**
- * @author Qiangqiang.Bian
- * @create 2020/12/5
- * @desc
- **/
+
 @Component
 public class MessageCommentCreateListener extends EventBus.EventHandler<Map<String, Object>> {
 

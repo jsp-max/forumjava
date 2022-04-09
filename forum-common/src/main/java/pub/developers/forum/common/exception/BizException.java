@@ -3,11 +3,7 @@ package pub.developers.forum.common.exception;
 import pub.developers.forum.common.enums.ErrorCodeEn;
 import lombok.Data;
 
-/**
- * @author Qiangqiang.Bian
- * @create 20/7/23
- * @desc
- **/
+
 @Data
 public class BizException extends RuntimeException {
 

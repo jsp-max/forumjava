@@ -4,11 +4,7 @@ import lombok.AllArgsConstructor;
 import lombok.Getter;
 import pub.developers.forum.common.exception.BizException;
 
-/**
- * @author Qiangqiang.Bian
- * @create 20/7/23
- * @desc
- **/
+
 @Getter
 @AllArgsConstructor
 public enum UserRoleEn {

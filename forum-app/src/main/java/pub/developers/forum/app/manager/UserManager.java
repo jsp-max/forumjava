@@ -34,11 +34,7 @@ import java.util.Date;
 import java.util.List;
 import java.util.stream.Collectors;
 
-/**
- * @author Qiangqiang.Bian
- * @create 2020/9/8
- * @desc
- **/
+
 @Component
 public class UserManager extends AbstractLoginManager {
 

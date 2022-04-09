@@ -14,11 +14,7 @@ import javax.annotation.Resource;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-/**
- * @author Qiangqiang.Bian
- * @create 2020/10/29
- * @desc
- **/
+
 @RestController
 @RequestMapping("/user-rest")
 public class UserRestController {

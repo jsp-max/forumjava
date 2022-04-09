@@ -6,11 +6,7 @@ import org.springframework.util.ObjectUtils;
 
 import java.text.MessageFormat;
 
-/**
- * @author Qiangqiang.Bian
- * @create 20/7/23
- * @desc
- **/
+
 public class CheckUtil {
 
     private CheckUtil() {

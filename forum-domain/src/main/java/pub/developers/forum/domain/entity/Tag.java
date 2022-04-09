@@ -3,11 +3,7 @@ package pub.developers.forum.domain.entity;
 import lombok.*;
 import pub.developers.forum.common.enums.AuditStateEn;
 
-/**
- * @author Qiangqiang.Bian
- * @create 2020/7/30
- * @desc 帖子标签
- **/
+
 @Data
 @Builder
 @AllArgsConstructor

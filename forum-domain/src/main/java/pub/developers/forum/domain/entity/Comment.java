@@ -5,11 +5,7 @@ import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-/**
- * @author Qiangqiang.Bian
- * @create 2020/7/30
- * @desc 帖子评论
- **/
+
 @Data
 @Builder
 @AllArgsConstructor

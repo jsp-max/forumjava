@@ -29,11 +29,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
 
-/**
- * @author Qiangqiang.Bian
- * @create 2020/11/6
- * @desc
- **/
+
 @Component
 public class CommentManager {
 

@@ -2,7 +2,6 @@
 <html lang="zh-CN" xmlns:th="http://www.thymeleaf.org">
 
 <div th:fragment="img_card(title, imgUrl, activeUrl)">
-
     <div th:if="${!#strings.isEmpty(imgUrl)}" class="card">
         <div class="card-header" style="background-color: white;">
             <span th:text="${title}">官方微信</span>
@@ -16,5 +15,4 @@
         </div>
     </div>
 </div>
-
 </html>

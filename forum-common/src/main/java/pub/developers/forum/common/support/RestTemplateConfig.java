@@ -16,11 +16,7 @@ import java.security.KeyManagementException;
 import java.security.KeyStoreException;
 import java.security.NoSuchAlgorithmException;
 
-/**
- * @author Qiangqiang.Bian
- * @create 2021/5/15
- * @desc
- **/
+
 @Configuration
 public class RestTemplateConfig {
 

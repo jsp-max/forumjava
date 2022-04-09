@@ -8,11 +8,7 @@ import pub.developers.forum.domain.repository.ArticleTypeRepository;
 
 import javax.annotation.Resource;
 
-/**
- * @author Qiangqiang.Bian
- * @create 2020/11/25
- * @desc
- **/
+
 @Component
 public class PostsDeleteListener extends EventBus.EventHandler<BasePosts> {
 

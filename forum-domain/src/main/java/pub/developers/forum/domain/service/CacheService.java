@@ -2,11 +2,7 @@ package pub.developers.forum.domain.service;
 
 import pub.developers.forum.common.enums.CacheBizTypeEn;
 
-/**
- * @author Qiangqiang.Bian
- * @create 20/7/23
- * @desc
- **/
+
 public interface CacheService {
 
     /**

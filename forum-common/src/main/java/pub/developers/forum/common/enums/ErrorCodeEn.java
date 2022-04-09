@@ -1,14 +1,7 @@
 package pub.developers.forum.common.enums;
 
-/**
- * @author Qiangqiang.Bian
- * @create 20/7/23
- * @desc
- **/
+
 public enum ErrorCodeEn {
-    /**
-     *
-     */
     SUCCESS(0, "成功"),
     SYSTEM_ERROR(9999, "系统异常"),
     CONFIG_DOMAIN_NOT_EMPTY(9998, "领域配置不可为空"),

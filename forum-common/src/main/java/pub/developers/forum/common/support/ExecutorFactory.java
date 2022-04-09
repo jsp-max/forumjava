@@ -5,11 +5,7 @@ import lombok.extern.slf4j.Slf4j;
 
 import java.util.concurrent.*;
 
-/**
- * @author Qiangqiang.Bian
- * @create 2020/10/22
- * @desc
- **/
+
 @Slf4j
 public class ExecutorFactory {
 

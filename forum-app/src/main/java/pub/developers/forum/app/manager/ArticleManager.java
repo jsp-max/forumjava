@@ -31,11 +31,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Set;
 
-/**
- * @author Qiangqiang.Bian
- * @create 2020/10/31
- * @desc
- **/
+
 @Slf4j
 @Component
 public class ArticleManager extends AbstractPostsManager {

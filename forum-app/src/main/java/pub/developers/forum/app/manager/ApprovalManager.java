@@ -14,11 +14,7 @@ import pub.developers.forum.domain.repository.PostsRepository;
 
 import javax.annotation.Resource;
 
-/**
- * @author Qiangqiang.Bian
- * @create 2020/12/1
- * @desc
- **/
+
 @Component
 public class ApprovalManager {
 

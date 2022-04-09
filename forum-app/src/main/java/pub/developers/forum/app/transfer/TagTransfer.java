@@ -12,11 +12,7 @@ import pub.developers.forum.domain.entity.Tag;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @author Qiangqiang.Bian
- * @create 20/9/9
- * @desc
- **/
+
 public class TagTransfer {
 
     public static Tag toTag(TagCreateRequest request) {

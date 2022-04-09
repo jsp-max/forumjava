@@ -3,11 +3,7 @@ package pub.developers.forum.common.support;
 import org.apache.commons.codec.digest.DigestUtils;
 import org.springframework.util.ObjectUtils;
 
-/**
- * @author Qiangqiang.Bian
- * @create 2020/10/29
- * @desc
- **/
+
 public class AvatarUtil {
 
     // https://www.gravatar.com/avatar/

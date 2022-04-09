@@ -11,11 +11,7 @@ import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ExecutorService;
 
-/**
- * @author Qiangqiang.Bian
- * @create 2020/10/22
- * @desc
- **/
+
 @Slf4j
 @Component
 public class EventBus {

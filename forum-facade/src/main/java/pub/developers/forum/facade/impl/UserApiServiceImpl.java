@@ -19,11 +19,7 @@ import pub.developers.forum.facade.validator.UserValidator;
 
 import javax.annotation.Resource;
 
-/**
- * @author Qiangqiang.Bian
- * @create 20/7/30
- * @desc
- **/
+
 @Service
 public class UserApiServiceImpl implements UserApiService {
 

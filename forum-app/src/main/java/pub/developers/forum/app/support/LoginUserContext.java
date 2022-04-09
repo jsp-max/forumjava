@@ -2,11 +2,7 @@ package pub.developers.forum.app.support;
 
 import pub.developers.forum.domain.entity.User;
 
-/**
- * @author Qiangqiang.Bian
- * @create 2020/10/19
- * @desc
- **/
+
 public class LoginUserContext {
 
     /**
